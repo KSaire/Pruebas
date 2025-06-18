@@ -1,1 +1,0 @@
-No parece haber problema con este documento en git
